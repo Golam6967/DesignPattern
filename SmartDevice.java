@@ -1,0 +1,3 @@
+interface SmartDevice {
+    String operate();
+}
